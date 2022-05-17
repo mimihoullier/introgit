@@ -7,3 +7,5 @@ git add
 
 saranihenkou
 .git status
+.git diff
+

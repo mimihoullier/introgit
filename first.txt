@@ -3,3 +3,6 @@ gitの練習頑張ります
 基本的なワークフローを学びます。よ！nazekaumakuikanai
 
 git add
+
+
+saranihenkou
